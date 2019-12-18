@@ -1,0 +1,32 @@
+$white: #ffffff;
+$primary: #576FDB;
+$secondary: #FF686B;
+$green: #6FCF97;
+$dark: #444444;
+
+.btn-lg{
+    line-height: 50px;
+    padding: 0px 50px;
+    border-radius: 3px;
+}
+#header{
+    background-image: url(../img/cropped-Premier-League-3.jpg);
+    background-size: cover;
+}
+#hero-area{
+    color: $white;
+    padding-top: 11em;
+    padding-bottom: 11em;
+}
+
+.match-prediction{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.10);
+    margin-bottom: 30px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+.logo-right{
+    text-align: right;
+}
