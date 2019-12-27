@@ -15,6 +15,19 @@
   padding-bottom: 11em;
 }
 
+#hero-area-small {
+  color: #ffffff;
+  padding-top: 3.125em;
+  padding-bottom: 3.125em;
+}
+
+div[data-team] {
+  -webkit-box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  border: none;
+}
+
 .match-prediction {
   padding-top: 15px;
   padding-bottom: 15px;
